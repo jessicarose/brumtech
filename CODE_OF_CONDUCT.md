@@ -41,6 +41,7 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Advocating for, or encouraging, any of the above behavior.
 
 ## 5. Focus on Supporting Marginalized Community Members
+We pledge to prioritize marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
 
   * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
   * Reasonable communication of boundaries, such as 'leave me alone,' 'go away,' or 'I’m not discussing this with you.'
